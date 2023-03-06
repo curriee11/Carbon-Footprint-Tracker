@@ -12,7 +12,7 @@ In addition, the carbon footprint of emails also includes the energy used to man
 To reduce the carbon footprint of emails, it is important to use more energy-efficient technologies, reduce the number of emails sent, and use eco-friendly electronic devices. Data centers consume a large amount of energy to power and cool servers, storage systems, and other equipment. The carbon footprint of data centers can be significant, as the energy used in these facilities is often generated from non-renewable sources such as coal, natural gas, and oil.
 
 ## Project Design
-The project design can be found at https://www.figma.com/file/47V6JenGg1k6Pf6Ne8VW3S/Untitled?node-id=19%3A152&t=B8ckBwiQNobQ2vSB-0.
+The project design is done using Figma and can be found at https://www.figma.com/file/47V6JenGg1k6Pf6Ne8VW3S/Untitled?node-id=19%3A152&t=B8ckBwiQNobQ2vSB-0.
 
 ## Installation
 To install the Browser Extension for Tracing Carbon Footprint of Email Accounts, follow these steps:
