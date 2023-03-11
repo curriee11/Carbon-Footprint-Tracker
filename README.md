@@ -24,7 +24,8 @@ To reduce the carbon footprint of emails, it is important to use more energy-eff
 ## Screenshots of Project
 Here are some screenshots of the project
 
-<img src="https://user-images.githubusercontent.com/77577005/224461317-207aaf72-a66e-4e95-86a4-86b4ba36c93b.png" width="443" height="500"/>
+<img src="https://user-images.githubusercontent.com/77577005/224461317-207aaf72-a66e-4e95-86a4-86b4ba36c93b.png" width="470" height="500"/>
+<br>
 <img src="https://user-images.githubusercontent.com/77577005/224461391-431b708f-1b17-4ab0-a0cb-de6d6afa6c95.png" width="443" height="500"/>
 
 ## Installation
