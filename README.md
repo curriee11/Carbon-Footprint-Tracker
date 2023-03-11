@@ -23,10 +23,11 @@ To reduce the carbon footprint of emails, it is important to use more energy-eff
 
 ## Screenshots of Project
 Here are some screenshots of the project
+<div style="display:flex;justify-content:center;">
+    <img src="https://user-images.githubusercontent.com/77577005/224461317-207aaf72-a66e-4e95-86a4-86b4ba36c93b.png" width="443" height="500" style="margin-right:10px;">
+    <img src="https://user-images.githubusercontent.com/77577005/224461391-431b708f-1b17-4ab0-a0cb-de6d6afa6c95.png" width="443" height="500" style="margin-left:10px;">
+</div>
 
-<img src="https://user-images.githubusercontent.com/77577005/224461317-207aaf72-a66e-4e95-86a4-86b4ba36c93b.png" width="443" height="500"/>
-<br>
-<img src="https://user-images.githubusercontent.com/77577005/224461391-431b708f-1b17-4ab0-a0cb-de6d6afa6c95.png" width="443" height="500"/>
 
 ## Installation
 To install the Browser Extension for Tracing Carbon Footprint of Email Accounts, follow these steps:
